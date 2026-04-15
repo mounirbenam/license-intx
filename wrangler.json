@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "license-intx",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c2a0e444-eddf-406c-b910-2b382285a319",
+			"database_name": "license-server-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
